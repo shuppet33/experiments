@@ -1,1 +1,2 @@
-![Image alt](https://github.com/shuppet33/experiments/blob/main/imageFolder/galileo.jpg)
+![Image alt](https://raw.githubusercontent.com/shuppet33/experiments/main/imageFolder/galileo.jpg
+)
